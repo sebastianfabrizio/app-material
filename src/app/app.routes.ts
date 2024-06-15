@@ -4,6 +4,6 @@ import { PruebaAmaterialComponent } from './prueba-amaterial/prueba-amaterial.co
 
 
 export const routes: Routes = [
-    {path: "form", component: PruebaAmaterialComponent},
+    {path: "prueba", component: PruebaAmaterialComponent},
 
 ]
